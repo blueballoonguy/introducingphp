@@ -32,9 +32,7 @@
               </ul>
               <p>Aliquid cum ex expedita illum ipsa maxime, minus, natus nihil officia praesentium quas, quisquam ratione sapiente. Aliquid animi beatae fugit in magnam necessitatibus, nihil nobis quod repudiandae saepe. Similique, ullam?</p>
           </section>
-      <?php
-        endif;
-      ?>
+      <?php endif; ?>
 
     <section>
         <div class="both">
@@ -48,10 +46,7 @@
               <h3>Information for Members Only</h3>
               <p>Don't let non-members into the secret! Dolor dolores dolorum harum, illum molestias quia quidem ullam. A accusamus alias assumenda iure provident quae quos! A, alias cumque distinctio excepturi, incidunt mollitia nemo neque quam suscipit ut voluptate.</p>
           </div>
-
-        <?php
-          endif;
-        ?>
+        <?php endif; ?>
     </section>
 
     <footer class="both">
